@@ -3,11 +3,8 @@ I'm an applied and pure mathematics student.
 
 Quant finance enthusiast and aspiring quant researcher.
 
-I have experience working on quant finance related projects with python.
+Main interests: Probability, stochastic processes, dynamic systems and bayesian statistics
 
-📨 Reach me: 
-
-Preferably: dvelezmo@ciencias.unam.mx
-
-          dvelezmo@itam.mx
+📨 Reach me:  dvelezmo@ciencias.unam.mx
+dvelezmo@itam.mx
 
