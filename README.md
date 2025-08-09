@@ -7,7 +7,7 @@ I have experience working on quant finance related projects with python.
 
 📨 Reach me: 
 
-dvelezmo@ciencias.unam.mx
+Preferably: dvelezmo@ciencias.unam.mx
 
-dvelezmo@itam.mx
+          dvelezmo@itam.mx
 
