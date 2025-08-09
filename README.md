@@ -1,3 +1,8 @@
 ## Hi there 👋
 
-hola
+
+Reach me: 
+
+dvelezmo@ciencias.unam.mx
+dvelezmo@itam.mx
+
