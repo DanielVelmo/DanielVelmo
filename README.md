@@ -7,4 +7,7 @@ Main interests: Probability, stochastic processes, dynamic systems, and bayesian
 
 📨 Reach me through:  dvelezmo@ciencias.unam.mx or dvelezmo@itam.mx
 
-👨‍💻 Currently working on: <ins> Binance options pricing dashboard and optimization using stochastic simulations </ins> 
+👨‍💻 Currently working on: 
+
+- <ins> Binance options pricing dashboard and optimization using stochastic simulations </ins>
+- <ins> Heston Model parameter tunning for option pricing using neural networks</ins>
