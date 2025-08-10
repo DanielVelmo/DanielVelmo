@@ -11,3 +11,4 @@ Main interests: Probability, stochastic processes, dynamic systems, and bayesian
 
 - <ins> Binance options pricing dashboard and optimization using stochastic simulations </ins>
 - <ins> Heston Model parameter tunning for option pricing using neural networks</ins>
+- <ins> Survival analysis from various betting strategies </ins>
